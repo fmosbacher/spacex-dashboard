@@ -10,7 +10,6 @@ export default function useLaunches(
   const { data, isLoading, error } = useQuery({
     queryKey: ["launches", status, page, itemsPerPage],
     queryFn: () => fetchLaunches(status, page, itemsPerPage),
-    placeholderData: (previousData) => previousData,
   });
 
   return {
