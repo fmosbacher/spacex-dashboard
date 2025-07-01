@@ -23,19 +23,13 @@ src/
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js (v18 or higher)
-- npm, yarn, or pnpm
-- SpaceX Launch API backend running
-
 ### Installation
 
 1. Clone the repository:
 
 ```bash
 git clone <repository-url>
-cd spacex-launch-dashboard
+cd www
 ```
 
 2. Install dependencies:
@@ -51,14 +45,14 @@ pnpm install
 3. Create environment file:
 
 ```bash
-cp .env.example .env.local
+touch .env
 ```
 
 4. Configure environment variables:
 
 ```env
 VITE_API_URL=http://localhost:3001
-VITE_GA_MEASUREMENT_ID=GA_MEASUREMENT_ID
+VITE_GROWTHBOOK_KEY=sdk-abc123
 ```
 
 5. Start the development server:

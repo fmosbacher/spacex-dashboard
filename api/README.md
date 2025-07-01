@@ -39,7 +39,7 @@ This project follows Clean Architecture principles with clear separation of conc
 
 ```bash
 git clone <repository-url>
-cd spacex-launch-api
+cd api
 ```
 
 2. Install dependencies:
@@ -51,7 +51,7 @@ npm install
 3. Create environment file:
 
 ```bash
-cp .env.example .env
+touch .env
 ```
 
 4. Configure environment variables:
