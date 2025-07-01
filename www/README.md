@@ -2,13 +2,17 @@
 
 A React application for exploring SpaceX launch data. Built with TypeScript, Vite, and React Query.
 
+🌐 **Live Demo**: [https://www-production-7c8b.up.railway.app/upcoming](https://www-production-7c8b.up.railway.app/upcoming)
+
 ## Features
 
 - 🚀 **Launch Explorer**: Browse past, upcoming, latest, and next SpaceX launches
 - 🎥 **Webcast Integration**: Embedded YouTube webcasts for launch viewing
 - 📱 **Responsive Design**: Optimized for desktop and mobile devices
 - 🔍 **Filtering**: Filter launches by status with pagination support
-- 📈 **Analytics Ready**: Google Analytics integration for experiment tracking
+- 📈 **A/B Testing**: GrowthBook integration for feature flags and experiment management
+- 📊 **Analytics Ready**: Google Analytics integration for conversion tracking
+- 🔥 **User Analytics**: Hotjar integration for user behavior insights and heatmaps
 
 ## Project Structure
 
