@@ -1,12 +1,8 @@
 # SpaceX Launch Platform
 
-A full-stack application for exploring SpaceX launch data, consisting of a Node.js REST API backend and a React frontend dashboard.
+A full-stack application for exploring SpaceX launch data, consisting of a Node REST API and a React dashboard.
 
-## Project Overview
-
-This platform provides an interface for accessing and exploring SpaceX launch information.
-
-### Components
+## Components
 
 - **[API](./api)** - Node.js REST API service with clean architecture
 - **[Dashboard](./www)** - React frontend application

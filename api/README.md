@@ -5,8 +5,8 @@ A Node.js REST API service that provides SpaceX launch data with clean architect
 ## Features
 
 - 🚀 **Launch Data**: Access past, upcoming, latest, and next SpaceX launches
-- 📄 **Pagination**: Built-in pagination support for large datasets
-- 🏗️ **Clean Architecture**: Follows Domain-Driven Design principles
+- 📄 **Pagination**: Built using pagination for large datasets
+- 🏗️ **Clean Architecture**: Follows Domain Driven Design principles
 
 ## Architecture
 

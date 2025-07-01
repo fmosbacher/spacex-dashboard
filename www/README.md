@@ -8,7 +8,7 @@ A React application for exploring SpaceX launch data. Built with TypeScript, Vit
 
 - 🚀 **Launch Explorer**: Browse past, upcoming, latest, and next SpaceX launches
 - 🎥 **Webcast Integration**: Embedded YouTube webcasts for launch viewing
-- 📱 **Responsive Design**: Optimized for desktop and mobile devices
+- 📱 **Responsive Design**: Developed using mobile first approach
 - 🔍 **Filtering**: Filter launches by status with pagination support
 - 📈 **A/B Testing**: GrowthBook integration for feature flags and experiment management
 - 📊 **Analytics Ready**: Google Analytics integration for conversion tracking
